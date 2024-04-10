@@ -113,9 +113,9 @@ I believe an easy solution to these issues is to keep train usage to a bare mini
 ### Posh (Copper / Quartz / Caterium)
 * Wire
 * Cable
-* Copper Sheet
+* Copper Sheet *
 * Quickwire
-* Quartz Crystal
+* Quartz Crystal *
 * Silica
 * Circuit Board
 * AI Limiter *
@@ -143,6 +143,8 @@ I believe an easy solution to these issues is to keep train usage to a bare mini
 ### Posh + Element
 * Heat Sink *
 * Radio Control Unit *
+#### Alternate Recipies
+* Radio Connection Unit
 #### Notes
 * Should have its own transportation system directly from Posh to Element
 
