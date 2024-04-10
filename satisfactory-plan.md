@@ -177,3 +177,6 @@ I believe an easy solution to these issues is to keep train usage to a bare mini
     * Supercomputer + Adaptive Control Unit
 * Nuclear Pasta
     * Pressure Conversion Cube + Copper Powder
+
+# TODOs
+* I need the most up-to-date alternate recipies once 1.0 comes out. Once I have that I can come up with a master plan`
