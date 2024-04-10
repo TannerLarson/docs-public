@@ -146,7 +146,7 @@ I believe an easy solution to these issues is to keep train usage to a bare mini
 #### Alternate Recipies
 * Radio Connection Unit
 #### Notes
-* Should have its own transportation system directly from Posh to Element
+* Should have its own transportation system directly from Posh to Element (Consider Drones)
 
 ### Secondary Oil
 * Supercomputer *
