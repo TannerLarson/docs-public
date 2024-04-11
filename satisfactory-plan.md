@@ -53,6 +53,14 @@ I believe an easy solution to these issues is to keep train usage to a bare mini
 * Trains will only ever drop materials off at the Oil factory. The first will be the Oil station, and the second will be the main storage facility
 * DO NOT use 4m ramps when laying track
 
+## Drone usage
+If you decide to use drones, much of the Railway complexity can be done away with by transporting materials needed by Element + Posh and Secondary Oil via drone. In this situation you could put your main logistics hub anywhere you wanted (probably at Rust) and the only materials to go on a train would be headed for the main logistics hub exclusively. You would need at least three routes:
+* Element to Posh to collect Element + Posh materials
+* Element to Oil to send batteries for drone power
+* Oil to Posh + Rust to collect Secondary Oil resources
+
+This would take about 30 batteries / min.
+
 # Factories
 
 ## Main
